@@ -1,0 +1,15 @@
+{
+  "name": "join4join",
+  "version": "1.0.0",
+  "description": "Onurege",
+  "main": "Onurege.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node Onurege"
+  },
+  "author": "Onurege",
+  "license": "ISC"
+}
