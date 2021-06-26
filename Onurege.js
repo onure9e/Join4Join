@@ -1,4 +1,4 @@
-var Discord = require('discord.js'), data = new Map(), config = require("./Config.json")
+var Discord = require('discord.js-selfbot'), data = new Map(), config = require("./Config.json")
 function sleep(milliseconds) {
     var start = new Date().getTime();
     for (var i = 0; i < 1e7; i++) {
